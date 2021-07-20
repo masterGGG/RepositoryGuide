@@ -3,7 +3,7 @@
 明哥仓库导航
 
 1. 基础知识库
-> [算法](https://github.com/masterGGG/algorithm)
+> [算法](https://github.com/masterGGG/Algorithm)
 
 > [设计模式](https://github.com/masterGGG/DesignMode)
 
