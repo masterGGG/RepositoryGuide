@@ -1,6 +1,6 @@
 [toc]
 
-My git guide.
+明哥仓库导航
 
 # 分布式存储
 ## 常用proxy
