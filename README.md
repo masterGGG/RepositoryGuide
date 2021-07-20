@@ -2,6 +2,13 @@
 
 明哥仓库导航
 
+1. 基础知识库
+> [算法](https://github.com/masterGGG/algorithm)
+> [设计模式](https://github.com/masterGGG/DesignMode)
+> [网络](https://github.com/masterGGG/Network)
+> [操作系统](https://github.com/masterGGG/OperateSystem)
+> [数据库](https://github.com/masterGGG/DataBase)
+
 # 分布式存储
 ## 常用proxy
 * [codis](https://github.com/masterGGG/codis) 豌豆荚开源的proxy代理，go语言开发，支持pipeline，提供多种维度的监控数据。
